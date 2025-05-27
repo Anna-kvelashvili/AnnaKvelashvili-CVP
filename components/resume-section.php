@@ -1,7 +1,7 @@
 <?php
 $resume = [
   'title' => 'Download My Resume',
-  'file' => 'assets/files/Annakvelashvili-portfolio.zip',
+  'file' => 'https://drive.google.com/file/d/1_np6XXBCrQIhSGEzfx5iMRU2xEs1wsXl/view?usp=sharing',
   'button' => 'Download Resume'
 ];
 ?>
